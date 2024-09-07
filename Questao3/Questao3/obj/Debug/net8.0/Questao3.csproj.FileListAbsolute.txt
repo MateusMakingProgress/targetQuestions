@@ -1,0 +1,17 @@
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao3\Questao3\bin\Debug\net8.0\Questao3.exe
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao3\Questao3\bin\Debug\net8.0\Questao3.deps.json
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao3\Questao3\bin\Debug\net8.0\Questao3.runtimeconfig.json
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao3\Questao3\bin\Debug\net8.0\Questao3.dll
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao3\Questao3\bin\Debug\net8.0\Questao3.pdb
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao3\Questao3\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao3\Questao3\obj\Debug\net8.0\Questao3.csproj.AssemblyReference.cache
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao3\Questao3\obj\Debug\net8.0\Questao3.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao3\Questao3\obj\Debug\net8.0\Questao3.AssemblyInfoInputs.cache
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao3\Questao3\obj\Debug\net8.0\Questao3.AssemblyInfo.cs
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao3\Questao3\obj\Debug\net8.0\Questao3.csproj.CoreCompileInputs.cache
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao3\Questao3\obj\Debug\net8.0\Questao3.csproj.CopyComplete
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao3\Questao3\obj\Debug\net8.0\Questao3.dll
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao3\Questao3\obj\Debug\net8.0\refint\Questao3.dll
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao3\Questao3\obj\Debug\net8.0\Questao3.pdb
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao3\Questao3\obj\Debug\net8.0\Questao3.genruntimeconfig.cache
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao3\Questao3\obj\Debug\net8.0\ref\Questao3.dll

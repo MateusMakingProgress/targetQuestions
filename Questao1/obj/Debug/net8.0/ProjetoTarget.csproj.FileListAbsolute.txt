@@ -1,0 +1,14 @@
+E:\projetosPraticaProgramacao\ProjetoTarget\bin\Debug\net8.0\ProjetoTarget.exe
+E:\projetosPraticaProgramacao\ProjetoTarget\bin\Debug\net8.0\ProjetoTarget.deps.json
+E:\projetosPraticaProgramacao\ProjetoTarget\bin\Debug\net8.0\ProjetoTarget.runtimeconfig.json
+E:\projetosPraticaProgramacao\ProjetoTarget\bin\Debug\net8.0\ProjetoTarget.dll
+E:\projetosPraticaProgramacao\ProjetoTarget\bin\Debug\net8.0\ProjetoTarget.pdb
+E:\projetosPraticaProgramacao\ProjetoTarget\obj\Debug\net8.0\ProjetoTarget.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetosPraticaProgramacao\ProjetoTarget\obj\Debug\net8.0\ProjetoTarget.AssemblyInfoInputs.cache
+E:\projetosPraticaProgramacao\ProjetoTarget\obj\Debug\net8.0\ProjetoTarget.AssemblyInfo.cs
+E:\projetosPraticaProgramacao\ProjetoTarget\obj\Debug\net8.0\ProjetoTarget.csproj.CoreCompileInputs.cache
+E:\projetosPraticaProgramacao\ProjetoTarget\obj\Debug\net8.0\ProjetoTarget.dll
+E:\projetosPraticaProgramacao\ProjetoTarget\obj\Debug\net8.0\refint\ProjetoTarget.dll
+E:\projetosPraticaProgramacao\ProjetoTarget\obj\Debug\net8.0\ProjetoTarget.pdb
+E:\projetosPraticaProgramacao\ProjetoTarget\obj\Debug\net8.0\ProjetoTarget.genruntimeconfig.cache
+E:\projetosPraticaProgramacao\ProjetoTarget\obj\Debug\net8.0\ref\ProjetoTarget.dll

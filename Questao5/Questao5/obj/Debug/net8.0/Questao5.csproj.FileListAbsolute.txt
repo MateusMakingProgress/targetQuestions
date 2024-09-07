@@ -1,0 +1,14 @@
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao5\Questao5\bin\Debug\net8.0\Questao5.exe
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao5\Questao5\bin\Debug\net8.0\Questao5.deps.json
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao5\Questao5\bin\Debug\net8.0\Questao5.runtimeconfig.json
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao5\Questao5\bin\Debug\net8.0\Questao5.dll
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao5\Questao5\bin\Debug\net8.0\Questao5.pdb
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao5\Questao5\obj\Debug\net8.0\Questao5.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao5\Questao5\obj\Debug\net8.0\Questao5.AssemblyInfoInputs.cache
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao5\Questao5\obj\Debug\net8.0\Questao5.AssemblyInfo.cs
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao5\Questao5\obj\Debug\net8.0\Questao5.csproj.CoreCompileInputs.cache
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao5\Questao5\obj\Debug\net8.0\Questao5.dll
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao5\Questao5\obj\Debug\net8.0\refint\Questao5.dll
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao5\Questao5\obj\Debug\net8.0\Questao5.pdb
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao5\Questao5\obj\Debug\net8.0\Questao5.genruntimeconfig.cache
+E:\projetosPraticaProgramacao\ProjetoTarget\Questao5\Questao5\obj\Debug\net8.0\ref\Questao5.dll
